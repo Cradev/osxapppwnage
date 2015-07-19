@@ -1,6 +1,6 @@
-# osxapppwnage
+# osx app pwnage
 
-This script generates osascript code to exploit a users trust in known applications.
+This script generates osascript code to exploit a users' trust in known applications.
 
 Usage: 
  1. Enter path to your Applications folder.
